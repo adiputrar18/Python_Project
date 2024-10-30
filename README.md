@@ -1,1 +1,1 @@
-This main branch contains report-related files (proposal, midterm report, and final report). In order to access the python files, go to "Python Files" branch.
+This branch contains graphs for the project. To read report-related files, go to the main branch. To access python files, go to "Python Files" branch.
